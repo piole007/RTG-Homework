@@ -1,0 +1,19 @@
+.social-media svg {
+    fill: white;
+    height: 60px;
+width: 60px;}
+.social-media svg:hover {fill: #ff3980;}
+.media {
+    background-color: #191635;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 70px 0;
+
+}
+.media-heading {color: white;
+display: flex;
+justify-content: center;}
+.video {margin-bottom: 50px;}
+

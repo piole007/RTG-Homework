@@ -1,0 +1,26 @@
+.learn-more {
+    display: flex;
+    justify-content: center;
+    padding: 25px 0px 25px 0px;
+    align-items: center;
+    
+}
+.learn-more-button {
+  background-color: #ff3980;
+  color: white;
+  font-size: 20px;
+  padding: 15px 30px 15px 30px;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: solid 2px #ff3980;
+border-radius: 10px
+
+}
+.learn-more-button:hover {
+    background-color: white;
+    color:#191635;
+    border: solid 2px #ff3980;
+    transition: 0.3s;
+  
+
+}

@@ -1,0 +1,14 @@
+.question-container {
+    padding: 20px 60px 40px 60px;
+}
+.question {
+    font-size: 25px;
+}
+.answer{
+    font-size: 20px;
+}
+.faq-li {font-size: 20px;}
+.faq {
+    display: flex;
+    justify-content: center;
+}
